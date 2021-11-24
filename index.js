@@ -1,4 +1,4 @@
-      var ucapanWaktu = "Good night";
+ // Script by RAFHAN
 // RAFHAN SER | 𝙳𝙾𝙽'𝚃 𝙲𝙷𝙰𝙽𝙶𝙴 𝙲𝚁𝙴𝙳𝙸𝚃𝚂🙂
 // ©RAFHAN  SER  
 const {
